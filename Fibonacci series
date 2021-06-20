@@ -1,0 +1,8 @@
+i = 0
+j = 1
+n = 144
+while i<=n:
+    print(i)
+    k = i+j
+    i = j
+    j = k
